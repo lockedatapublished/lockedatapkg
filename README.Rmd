@@ -1,11 +1,3 @@
-# 
+# lockedatapkg
 
-The goal of  is to ...
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-## basic example code
-```
+This package holds the lockedata theme for package documentation. Install it from github and reference it in a `_pkgdown.yml` file to be able to generate package docs locally.
