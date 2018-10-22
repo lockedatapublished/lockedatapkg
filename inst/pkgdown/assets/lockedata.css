@@ -982,3 +982,11 @@ body {
 .col-md-4:last-child {
 	margin-right: auto;
 }
+
+ul.dropdown-menu {
+	background-color: #2165b6;
+}
+
+ul.dropdown-menu:hover {
+	background-color: #2165b6;
+}
