@@ -983,10 +983,15 @@ body {
 	margin-right: auto;
 }
 
-ul.dropdown-menu {
+.dropdown-menu {
 	background-color: #2165b6;
 }
 
-ul.dropdown-menu:hover {
+.nav li a:hover {
 	background-color: #2165b6;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #ffffff;
+    background-color: #E8830C;
 }
